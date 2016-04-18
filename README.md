@@ -3,7 +3,7 @@ tools used to help/solve challenges
 
 Collection of small tools used in CTF that I'll add here when I remember to.
 
-<b>buffovr_exploit</b>
+<b>buffovr_exploit.py</b>
 <br>
 generic simple template for buffer overflow exploit - hardcode shellcode to execute shell (/bin/sh)
 just need to modify buffer size and possibly NOPsled
